@@ -1,0 +1,17 @@
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\bin\Debug\net5.0\Bussiness(Services).deps.json
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\bin\Debug\net5.0\Bussiness(Services).dll
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\bin\Debug\net5.0\Bussiness(Services).pdb
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\bin\Debug\net5.0\Domain.dll
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\bin\Debug\net5.0\Persistance.dll
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\bin\Debug\net5.0\Persistance.pdb
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\bin\Debug\net5.0\Domain.pdb
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).csproj.AssemblyReference.cache
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).AssemblyInfoInputs.cache
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).AssemblyInfo.cs
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).csproj.CoreCompileInputs.cache
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).csproj.CopyComplete
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).dll
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\refint\Bussiness(Services).dll
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\Bussiness(Services).pdb
+C:\Users\M.Kabiri\source\repos\CodeChalenge\Bussiness(Services)\obj\Debug\net5.0\ref\Bussiness(Services).dll
