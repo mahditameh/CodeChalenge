@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BhIJDU1vawp7IILWJQsrPjyn0V3UfHVX8qDhBw765wxiKcnA5mrGgaKtC9rzDw7FyvTQGQp84Y76ygLIeTb3KA==",
+  "dgSpecHash": "2JdB0A78YcJm25eVhwQuXL2UbYjupmPbpXryosBF//aBaX4AYh8iHRlaZmiXfgiL7k5n7cy9LkKe9SsHxOQopA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\M.Kabiri\\source\\repos\\CodeChalenge\\T estProject\\T estProject.csproj",
+  "projectFilePath": "C:\\Users\\M.Kabiri\\source\\repos\\n\\CodeChalenge\\T estProject\\T estProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M.Kabiri\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\M.Kabiri\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

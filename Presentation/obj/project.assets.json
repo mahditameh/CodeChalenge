@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M.Kabiri\\source\\repos\\CodeChalenge\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\M.Kabiri\\source\\repos\\n\\CodeChalenge\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Users\\M.Kabiri\\source\\repos\\CodeChalenge\\Presentation\\Presentation.csproj",
+      "projectPath": "C:\\Users\\M.Kabiri\\source\\repos\\n\\CodeChalenge\\Presentation\\Presentation.csproj",
       "packagesPath": "C:\\Users\\M.Kabiri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M.Kabiri\\source\\repos\\CodeChalenge\\Presentation\\obj\\",
+      "outputPath": "C:\\Users\\M.Kabiri\\source\\repos\\n\\CodeChalenge\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -826,8 +826,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\M.Kabiri\\source\\repos\\CodeChalenge\\Persistance\\Persistance.csproj": {
-              "projectPath": "C:\\Users\\M.Kabiri\\source\\repos\\CodeChalenge\\Persistance\\Persistance.csproj"
+            "C:\\Users\\M.Kabiri\\source\\repos\\n\\CodeChalenge\\Persistance\\Persistance.csproj": {
+              "projectPath": "C:\\Users\\M.Kabiri\\source\\repos\\n\\CodeChalenge\\Persistance\\Persistance.csproj"
             }
           }
         }
